@@ -26,7 +26,7 @@ std::vector<double> testResults(const Number& a, const Number& b)
     std::vector<double> time;
     double t1=0, t2=0, t3=0;
 
-    for (int i = 0; i < 1; ++i) // 3 times
+    for (int i = 0; i < 3; ++i) // 3 times
     {
         //        GradeSchool m1;
         std::shared_ptr<Multiplicator> m1 = std::make_shared<GradeSchool>();
