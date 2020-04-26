@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/c++  -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/Big_hw_1.dir/main.cpp.o CMakeFiles/Big_hw_1.dir/Number.cpp.o CMakeFiles/Big_hw_1.dir/Multiplicator.cpp.o  -o Big_hw_1 
